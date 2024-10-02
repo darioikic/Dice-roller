@@ -1,0 +1,39 @@
+#container{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(207, 205, 205);
+    height: 150px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 0% auto;
+    box-shadow: 5px 5px 5px;
+}
+
+#lbl1{
+    font-size: 20px;
+}
+
+#diceNum{
+    height: 20px;
+    width: 30px;
+}
+
+#rollBtn{
+    height: 20px;
+    width: 50px;
+    margin-left: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+}
+
+#rollBtn:hover{
+    background-color: rgb(94, 94, 245);
+    cursor: pointer;
+}
+
+#image_container{
+
+    margin-top: 10px;
+    text-align: center;
+}
